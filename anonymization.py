@@ -143,13 +143,12 @@ def anonymizeTemporalData(identities, nodes_t1, nodes_t2, domains, distances, sn
     return anonymized_graph, total_distance
 
 
-base_dir = '/Users/akmami/Desktop/DP/'
-sample_dir = base_dir + 'sample.json'
-domains_dir = base_dir + 'domains.json'
-distances_dir = base_dir + 'distances.json'
-identities_dir = base_dir + 'identities.json'
-anonymized_graph_t1t2_dir = base_dir + 'anonymized_graph_t2.json'
-anonymized_graph_t2t3_dir = base_dir + 'anonymized_graph_t3.json'
+sample_dir = 'initial/sample.json'
+domains_dir = 'predefined/domains.json'
+distances_dir = 'predefined/distances.json'
+identities_dir = 'predefined/identities.json'
+anonymized_graph_t1t2_dir = 'result/anonymized_graph_t2.json'
+anonymized_graph_t2t3_dir = 'result/anonymized_graph_t3.json'
   
 # Opening JSON file
 f1 = open(sample_dir)

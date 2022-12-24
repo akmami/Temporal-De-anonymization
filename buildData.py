@@ -73,9 +73,9 @@ for user in name_list:
     user_id = user_id + 1
 
 
-#with open("sample.json", "w") as outfile:
-#    json.dump(jsonNodes, outfile,indent = 4)
+with open("initial/sample.json", "w") as outfile:
+    json.dump(jsonNodes, outfile,indent = 4)
     
     
-with open("identities.json", "w") as outfile:
+with open("initial/identities.json", "w") as outfile:
     json.dump(jsonNames, outfile,indent = 4)    
