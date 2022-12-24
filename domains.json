@@ -1,0 +1,39 @@
+{
+	"social_club": {
+		"None": [1],
+		"Bowling": [11],
+		"Cycling": [12],
+		"Basketball": [13],
+		"Hiking": [14],
+		"Biology": [21],
+		"Chemistry": [22],
+		"Physics": [23],
+		"Computer": [24],
+		"Painting": [31],
+		"Sculpture": [32],
+		"Literature": [33],
+		"Cinema": [34]
+	},
+	"relationship_status": {
+		"single": [1],
+		"separated": [2],
+		"divorced": [3],
+		"Widow": [4],
+		"roommates": [10],
+		"cohabitants": [11],
+		"de facto": [12],
+		"taken": [14],
+		"relationship": [15],
+		"engaged": [17],
+		"married": [18],
+		"second marriage": [19]
+	},
+	"education_level": {
+		"Primary": [1],
+		"Secondary": [5],
+		"High School": [9],
+		"Bachelor": [13],
+		"Master": [17],
+		"PhD": [19]
+	}
+}

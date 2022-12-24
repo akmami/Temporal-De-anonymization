@@ -1,0 +1,732 @@
+[
+    {
+        "id": 1,
+        "dbID": 2,
+        "social_club": [],
+        "education_level": "Bachelor",
+        "relationship_status": "married",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 1,
+        "dbID": 3,
+        "social_club": [],
+        "education_level": "Bachelor",
+        "relationship_status": "married",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 2,
+        "dbID": 2,
+        "social_club": [
+            "Physics",
+            "Bowling"
+        ],
+        "education_level": "PhD",
+        "relationship_status": "de facto",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 2,
+        "dbID": 3,
+        "social_club": [
+            "Physics",
+            "Bowling"
+        ],
+        "education_level": "PhD",
+        "relationship_status": "de facto",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 3,
+        "dbID": 2,
+        "social_club": [
+            "Chemistry",
+            "Computer"
+        ],
+        "education_level": "High School",
+        "relationship_status": "taken",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 3,
+        "dbID": 3,
+        "social_club": [
+            "Chemistry",
+            "Computer"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "taken",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 4,
+        "dbID": 2,
+        "social_club": [
+            "Painting"
+        ],
+        "education_level": "High School",
+        "relationship_status": "roommates",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 4,
+        "dbID": 3,
+        "social_club": [
+            "Painting"
+        ],
+        "education_level": "High School",
+        "relationship_status": "roommates",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 5,
+        "dbID": 2,
+        "social_club": [
+            "Chemistry",
+            "Cycling",
+            "Biology"
+        ],
+        "education_level": "PhD",
+        "relationship_status": "engaged",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 5,
+        "dbID": 3,
+        "social_club": [
+            "Chemistry",
+            "Cycling",
+            "Biology"
+        ],
+        "education_level": "PhD",
+        "relationship_status": "engaged",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 6,
+        "dbID": 2,
+        "social_club": [
+            "Cycling",
+            "Basketball",
+            "Physics"
+        ],
+        "education_level": "Primary",
+        "relationship_status": "taken",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 6,
+        "dbID": 3,
+        "social_club": [
+            "Cycling",
+            "Basketball",
+            "Physics"
+        ],
+        "education_level": "Secondary",
+        "relationship_status": "taken",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 7,
+        "dbID": 2,
+        "social_club": [
+            "Painting",
+            "Biology"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "separated",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 7,
+        "dbID": 3,
+        "social_club": [
+            "Painting",
+            "Biology"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "separated",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 8,
+        "dbID": 2,
+        "social_club": [
+            "Biology",
+            "Cinema"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "cohabitants",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 8,
+        "dbID": 3,
+        "social_club": [
+            "Biology",
+            "Cinema"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "cohabitants",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 9,
+        "dbID": 2,
+        "social_club": [
+            "Physics",
+            "Biology"
+        ],
+        "education_level": "High School",
+        "relationship_status": "roommates",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 9,
+        "dbID": 3,
+        "social_club": [
+            "Physics",
+            "Biology"
+        ],
+        "education_level": "High School",
+        "relationship_status": "roommates",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 10,
+        "dbID": 2,
+        "social_club": [],
+        "education_level": "Secondary",
+        "relationship_status": "de facto",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 10,
+        "dbID": 3,
+        "social_club": [],
+        "education_level": "Secondary",
+        "relationship_status": "de facto",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 11,
+        "dbID": 2,
+        "social_club": [
+            "Cinema",
+            "Chemistry"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "Widow",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 11,
+        "dbID": 3,
+        "social_club": [
+            "Cinema",
+            "Chemistry"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "Widow",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 12,
+        "dbID": 2,
+        "social_club": [
+            "Biology",
+            "Chemistry",
+            "Hiking"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "roommates",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 12,
+        "dbID": 3,
+        "social_club": [
+            "Biology",
+            "Chemistry",
+            "Hiking"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "roommates",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 13,
+        "dbID": 2,
+        "social_club": [
+            "Chemistry",
+            "Sculpture"
+        ],
+        "education_level": "Master",
+        "relationship_status": "roommates",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 13,
+        "dbID": 3,
+        "social_club": [
+            "Chemistry",
+            "Sculpture"
+        ],
+        "education_level": "Master",
+        "relationship_status": "roommates",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 14,
+        "dbID": 2,
+        "social_club": [
+            "Painting"
+        ],
+        "education_level": "Primary",
+        "relationship_status": "separated",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 14,
+        "dbID": 3,
+        "social_club": [
+            "Painting"
+        ],
+        "education_level": "Primary",
+        "relationship_status": "separated",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 15,
+        "dbID": 2,
+        "social_club": [
+            "Cinema"
+        ],
+        "education_level": "Primary",
+        "relationship_status": "relationship",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 15,
+        "dbID": 3,
+        "social_club": [
+            "Cinema"
+        ],
+        "education_level": "Primary",
+        "relationship_status": "relationship",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 16,
+        "dbID": 2,
+        "social_club": [
+            "Cycling",
+            "Computer"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "single",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 16,
+        "dbID": 3,
+        "social_club": [
+            "Cycling",
+            "Computer"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "single",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 17,
+        "dbID": 2,
+        "social_club": [
+            "Cycling",
+            "Biology"
+        ],
+        "education_level": "Primary",
+        "relationship_status": "roommates",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 17,
+        "dbID": 3,
+        "social_club": [
+            "Cycling",
+            "Biology"
+        ],
+        "education_level": "Primary",
+        "relationship_status": "roommates",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 18,
+        "dbID": 2,
+        "social_club": [
+            "Biology"
+        ],
+        "education_level": "High School",
+        "relationship_status": "engaged",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 18,
+        "dbID": 3,
+        "social_club": [
+            "Biology"
+        ],
+        "education_level": "High School",
+        "relationship_status": "engaged",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 19,
+        "dbID": 2,
+        "social_club": [
+            "Computer",
+            "Painting"
+        ],
+        "education_level": "High School",
+        "relationship_status": "engaged",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 19,
+        "dbID": 3,
+        "social_club": [
+            "Computer",
+            "Painting"
+        ],
+        "education_level": "High School",
+        "relationship_status": "engaged",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 20,
+        "dbID": 2,
+        "social_club": [
+            "Basketball",
+            "Literature",
+            "Cinema"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "taken",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 20,
+        "dbID": 3,
+        "social_club": [
+            "Basketball",
+            "Literature",
+            "Cinema"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "taken",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 21,
+        "dbID": 2,
+        "social_club": [
+            "Cycling"
+        ],
+        "education_level": "Primary",
+        "relationship_status": "roommates",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 21,
+        "dbID": 3,
+        "social_club": [
+            "Cycling"
+        ],
+        "education_level": "Primary",
+        "relationship_status": "roommates",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 22,
+        "dbID": 2,
+        "social_club": [
+            "Literature"
+        ],
+        "education_level": "Master",
+        "relationship_status": "engaged",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 22,
+        "dbID": 3,
+        "social_club": [
+            "Literature"
+        ],
+        "education_level": "Master",
+        "relationship_status": "engaged",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 23,
+        "dbID": 2,
+        "social_club": [
+            "Literature"
+        ],
+        "education_level": "Primary",
+        "relationship_status": "single",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 23,
+        "dbID": 3,
+        "social_club": [
+            "Literature"
+        ],
+        "education_level": "Primary",
+        "relationship_status": "single",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 24,
+        "dbID": 2,
+        "social_club": [
+            "Cycling"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "married",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 24,
+        "dbID": 3,
+        "social_club": [
+            "Cycling"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "married",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 25,
+        "dbID": 2,
+        "social_club": [
+            "Bowling",
+            "Painting",
+            "Cycling"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "taken",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 25,
+        "dbID": 3,
+        "social_club": [
+            "Bowling",
+            "Painting",
+            "Cycling"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "taken",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 26,
+        "dbID": 2,
+        "social_club": [],
+        "education_level": "Primary",
+        "relationship_status": "single",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 26,
+        "dbID": 3,
+        "social_club": [],
+        "education_level": "Primary",
+        "relationship_status": "single",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 27,
+        "dbID": 2,
+        "social_club": [
+            "Literature"
+        ],
+        "education_level": "Secondary",
+        "relationship_status": "single",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 27,
+        "dbID": 3,
+        "social_club": [
+            "Literature"
+        ],
+        "education_level": "Secondary",
+        "relationship_status": "single",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 28,
+        "dbID": 2,
+        "social_club": [],
+        "education_level": "High School",
+        "relationship_status": "married",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 28,
+        "dbID": 3,
+        "social_club": [],
+        "education_level": "High School",
+        "relationship_status": "divorced",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 29,
+        "dbID": 2,
+        "social_club": [],
+        "education_level": "High School",
+        "relationship_status": "single",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 29,
+        "dbID": 3,
+        "social_club": [],
+        "education_level": "High School",
+        "relationship_status": "single",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 30,
+        "dbID": 2,
+        "social_club": [
+            "Painting",
+            "Sculpture"
+        ],
+        "education_level": "Secondary",
+        "relationship_status": "engaged",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 30,
+        "dbID": 3,
+        "social_club": [
+            "Painting",
+            "Sculpture"
+        ],
+        "education_level": "Secondary",
+        "relationship_status": "engaged",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 31,
+        "dbID": 2,
+        "social_club": [
+            "Literature",
+            "Cinema"
+        ],
+        "education_level": "PhD",
+        "relationship_status": "engaged",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 31,
+        "dbID": 3,
+        "social_club": [
+            "Literature",
+            "Cinema"
+        ],
+        "education_level": "PhD",
+        "relationship_status": "engaged",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 32,
+        "dbID": 2,
+        "social_club": [
+            "Hiking",
+            "Chemistry"
+        ],
+        "education_level": "High School",
+        "relationship_status": "single",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 32,
+        "dbID": 3,
+        "social_club": [
+            "Hiking",
+            "Chemistry"
+        ],
+        "education_level": "High School",
+        "relationship_status": "single",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 33,
+        "dbID": 2,
+        "social_club": [
+            "Chemistry",
+            "Bowling"
+        ],
+        "education_level": "Master",
+        "relationship_status": "cohabitants",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 33,
+        "dbID": 3,
+        "social_club": [
+            "Chemistry",
+            "Bowling"
+        ],
+        "education_level": "Master",
+        "relationship_status": "cohabitants",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 34,
+        "dbID": 2,
+        "social_club": [
+            "Cycling"
+        ],
+        "education_level": "Master",
+        "relationship_status": "cohabitants",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 34,
+        "dbID": 3,
+        "social_club": [
+            "Cycling"
+        ],
+        "education_level": "Master",
+        "relationship_status": "cohabitants",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    },
+    {
+        "id": 35,
+        "dbID": 2,
+        "social_club": [
+            "Hiking",
+            "Painting"
+        ],
+        "education_level": "Bachelor",
+        "relationship_status": "roommates",
+        "snap_shot_time": "2020-11-30T18:40:32.142+0100"
+    },
+    {
+        "id": 35,
+        "dbID": 3,
+        "social_club": [
+            "Hiking",
+            "Painting"
+        ],
+        "education_level": "Master",
+        "relationship_status": "roommates",
+        "snap_shot_time": "2022-12-30T18:40:32.142+0100"
+    }
+]

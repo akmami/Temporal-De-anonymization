@@ -1,0 +1,38 @@
+node id: 1
+temporal t1: single , t2: second marriage , new_value: second marriage , closestSubstitutes: [(1.0, 'engaged'), (0.0, 'married'), (1.0, 'second marriage')]
+
+node id: 2
+temporal Literature not removed by binomial
+
+node id: 4
+temporal Painting not added by binomial
+
+node id: 10
+temporal t1: married , t2: married , not added by binomial
+
+node id: 16
+temporal t1: Secondary , t2: Secondary , not added by binomial
+
+node id: 17
+temporal Basketball not removed by binomial
+
+node id: 34
+temporal Cycling not added by binomial
+
+node id: 3
+temporal t2: High School , t3: Bachelor , new_value: Bachelor , closestSubstitutes: [(4.0, 'Bachelor'), (0.0, 'Master'), (2.0, 'PhD')]
+
+node id: 6
+normal t2: Primary , t3: Secondary
+
+node id: 10
+temporal t2: de facto , t3: de facto , not added by binomial
+
+node id: 11
+temporal Basketball not added by binomial
+
+node id: 28
+temporal t2: married , t3: divorced , new_value: divorced , closestSubstitutes: [(2.0, 'single'), (1.0, 'separated'), (0.0, 'divorced'), (1.0, 'Widow')]
+
+node id: 35
+normal t2: Bachelor , t3: Master
